@@ -1,6 +1,0 @@
-numpy
-matplotlib
-torch
-scikit-learn
-opencv-python
-Pillow
